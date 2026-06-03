@@ -1,5 +1,7 @@
 # Nero
 
+![NeroBot](https://github.com/HaxxorK9/Nero/blob/main/Nero%20bird.jpg?raw=true)
+
 **Nero** is an advanced Discord bot designed for roleplay communities.
 
 It provides character management, user statistics, interactive commands and persistent database storage.
